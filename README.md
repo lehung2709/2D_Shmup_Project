@@ -9,7 +9,7 @@ A 2D Shoot-'Em-Up (Shmup) game prototype built with Unity. Take control of a air
 - **✈️ Plane Shop**  
   Unlock and purchase different planes, each with unique bullet and skill.
 
-- **🧠 Strategy Pattern for Behavior**  
+- **🧠 Strategy Pattern for Movement**  
   Implemented for enemy and bullet movement (e.g., straight, accelerated, sine wave, etc.).
 
 - **📈 Bullet Spawn Patterns**  
