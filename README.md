@@ -12,7 +12,7 @@ A 2D Shoot-'Em-Up (Shmup) game prototype built with Unity. Take control of a air
 - **🧠 Strategy Pattern for Behavior**  
   Implemented for enemy and bullet movement (e.g., straight, accelerated, sine wave, etc.).
 
--**📈 Bullet Spawn Patterns**  
+- **📈 Bullet Spawn Patterns**  
   Create complex bullet patterns such as Linear, Multiway, Waving, and more.  
   
 - **⚔️ Enemy Phases**  
