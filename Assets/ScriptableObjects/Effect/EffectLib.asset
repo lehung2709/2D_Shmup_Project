@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a01840450277ac47a094414abb1ac7e, type: 3}
+  m_Name: EffectLib
+  m_EditorClassIdentifier: 
+  effects:
+  - EffectName: SmallExplode
+    effectPrefab: {fileID: 4785723774775376649, guid: 06ff99853b203134f85098063f184de0, type: 3}
+  - EffectName: BulletImpact
+    effectPrefab: {fileID: 4785723774775376649, guid: 7f61e06ee3b1bfa4bad70bac572892d0, type: 3}
+  - EffectName: BigExplode
+    effectPrefab: {fileID: 4785723774775376649, guid: f72cbf59904b3d649a730e7fe2a8acfa, type: 3}

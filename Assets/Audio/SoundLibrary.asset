@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe82d3bb6a4a17b4b9d89281ee208757, type: 3}
+  m_Name: SoundLibrary
+  m_EditorClassIdentifier: 
+  sounds:
+  - soundName: MenuMusic
+    clip: {fileID: 8300000, guid: 4c5227f14b8192342a974a7e1743bd40, type: 3}
+    mixerGroup: {fileID: -5784151641478580562, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 1
+  - soundName: Btn
+    clip: {fileID: 8300000, guid: eb3844fa01b6c2a44b8b388a9d18b23d, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Shoot1
+    clip: {fileID: 8300000, guid: 3dd4a1687cc94914f95c0725e7f8e159, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Coin
+    clip: {fileID: 8300000, guid: 32e6eece9157d0b41a7e6ada802e9b4a, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Buy
+    clip: {fileID: 8300000, guid: 33003e1adfc236543a10d9c9010bd0f3, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: TakeDmg
+    clip: {fileID: 8300000, guid: 9311022f486eb6f4a850ea8002cf33ea, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Win
+    clip: {fileID: 8300000, guid: e737e8becf455b04a982865e221c80b4, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Lose
+    clip: {fileID: 8300000, guid: be86da762dd19e34eaea4242504833f4, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Pickup
+    clip: {fileID: 8300000, guid: 067bbcf9fa54a92478196658d232f92c, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Explosion
+    clip: {fileID: 8300000, guid: 3184d1714c964514e8c7568361f3cb97, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: ShieldBreak
+    clip: {fileID: 8300000, guid: e7ce30ea974f0bb41ad16b594065bf9c, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: RocketLaunch
+    clip: {fileID: 8300000, guid: 3c8144b12846158478749238ecf91412, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Die
+    clip: {fileID: 8300000, guid: e682f311231294e4985d16393b9087e4, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: Shoot2
+    clip: {fileID: 8300000, guid: ca5fc64b0bbff1448a556154854297f1, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0
+  - soundName: UseSkillSound
+    clip: {fileID: 8300000, guid: eb3844fa01b6c2a44b8b388a9d18b23d, type: 3}
+    mixerGroup: {fileID: -2678418191982802734, guid: 08b402090dd6a3e4cb38e8a650e92d71, type: 2}
+    loop: 0

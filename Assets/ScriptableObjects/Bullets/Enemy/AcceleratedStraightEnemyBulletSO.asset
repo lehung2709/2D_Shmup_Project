@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 713510181d0103946a93462cf0a4e177, type: 3}
+  m_Name: AcceleratedStraightEnemyBulletSO
+  m_EditorClassIdentifier: 
+  keyName: eb3
+  bulletStrategySO: {fileID: 11400000, guid: 4a9004ba86446b54cabf0c3aed3b0416, type: 2}
+  existTime: 2.5
+  soundKey: Shoot2
+  bulletPrefab: {fileID: 59528871324672575, guid: fc6d1e929fe0f854c9705f51e37d04a1, type: 3}
